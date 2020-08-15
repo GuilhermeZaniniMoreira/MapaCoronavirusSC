@@ -1,84 +1,293 @@
-Águas Mornas - 1
-Anita Garibaldi - 1
-Antônio Carlos - 11
-Araranguá - 4
-Aurora - 1
-Balneário Arroio do Silva - 2
-Balneário Camboriú - 57
-Balneário Gaivota - 2
-Balneário Piçarras - 2
-Barra Velha - 1
-Biguaçu - 2
-Blumenau - 69
-Botuverá - 2
-Braço do Norte - 25
-Brusque - 17
-Caçador - 2
-Camboriú - 45
-Canelinha - 1
-Capivari de Baixo - 1
-Chapecó - 6
-Cocal do Sul - 1
-Criciúma - 41
-Florianópolis - 207
-Forquilhinha - 1
-Garopaba - 2
-Gaspar - 5
-Governador Celso Ramos - 3
-Gravatal - 10
-Guabiruba - 2
-Guaramirim - 1
-Içara - 7
-Imbituba - 10
-Indaial - 3
-Ipumirim - 2
-Irati - 1
-Itajaí - 39
-Itapema - 7
-Itapiranga - 1
-Jaguaruna - 3
-Jaraguá do Sul - 10
-Joaçaba - 1
-Joinville - 64
-Lages - 10
-Laguna - 4
-Mafra - 1
-Massaranduba - 1
-Morro da Fumaça - 2
-Navegantes - 7
-Nova Trento - 1
-Orleans - 2
-Palhoça - 11
-Papanduva - 2
-Paulo Lopes - 1
-Pedras Grandes - 2
-Pescaria Brava - 1
-Pomerode - 1
-Porto Belo - 5
-Rancho Queimado - 2
-Rio do Sul - 1
-Rio Negrinho - 1
-Rio Rufino - 1
-Sangão - 2
-Santa Cecília - 1
-Santa Rosa de Lima - 2
-Santo Amaro da Imperatriz - 1
-São Bento do Sul - 1
-São Domingos - 3
-São Francisco do Sul - 2
-São José - 31
-São Lourenço do Oeste - 2
-São Ludgero - 6
-São Pedro de Alcântara - 1
-Schroeder - 1
-Siderópolis - 5
-Sombrio - 8
-Tangará - 1
-Tijucas - 4
-Timbé do Sul - 1
-Timbó - 1
-Treze de Maio - 2
-Tubarão - 32
-Urussanga - 3
-Vidal Ramos - 1
-Videira - 1
+Abdon Batista - 76
+Abelardo Luz - 118
+Agrolândia - 75
+Agronômica - 51
+Água Doce - 28
+Águas de Chapecó - 29
+Águas Frias - 6
+Águas Mornas - 66
+Alfredo Wagner - 48
+Alto Bela Vista - 8
+Anchieta - 22
+Angelina - 47
+Anita Garibaldi - 106
+Anitápolis - 22
+Antônio Carlos - 188
+Apiúna - 37
+Arabutã - 48
+Araquari - 465
+Araranguá - 645
+Armazém - 135
+Arroio Trinta - 36
+Arvoredo - 29
+Ascurra - 63
+Atalanta - 11
+Aurora - 42
+Balneário Arroio do Silva - 166
+Balneário Barra do Sul - 234
+Balneário Camboriú - 4304
+Balneário Gaivota - 74
+Balneário Piçarras - 310
+Balneário Rincão - 132
+Bandeirante - 1
+Barra Velha - 317
+Bela Vista do Toldo - 5
+Belmonte - 2
+Benedito Novo - 69
+Biguaçu - 1055
+Blumenau - 5482
+Bocaina do Sul - 9
+Bom Jardim da Serra - 4
+Bom Jesus - 54
+Bom Jesus do Oeste - 4
+Bom Retiro - 25
+Bombinhas - 844
+Botuverá - 79
+Braço do Norte - 1078
+Braço do Trombudo - 23
+Brunópolis - 14
+Brusque - 2565
+Caçador - 183
+Caibi - 27
+Calmon - 4
+Camboriú - 1472
+Campo Alegre - 51
+Campo Belo do Sul - 9
+Campo Erê - 50
+Campos Novos - 428
+Canelinha - 274
+Canoinhas - 255
+Capão Alto - 3
+Capinzal - 501
+Capivari de Baixo - 455
+Catanduvas - 89
+Caxambu do Sul - 44
+Celso Ramos - 26
+Cerro Negro - 6
+Chapadão do Lageado - 4
+Chapecó - 3883
+Cocal do Sul - 133
+Concórdia - 1847
+Cordilheira Alta - 34
+Coronel Freitas - 114
+Coronel Martins - 7
+Correia Pinto - 67
+Corupá - 192
+Criciúma - 2738
+Cunha Porã - 65
+Cunhataí - 7
+Curitibanos - 234
+Descanso - 41
+Dionísio Cerqueira - 46
+Dona Emma - 36
+Doutor Pedrinho - 28
+Entre Rios - 214
+Ermo - 11
+Erval Velho - 58
+Faxinal dos Guedes - 188
+Flor do Sertão - 4
+Florianópolis - 3656
+Formosa do Sul - 29
+Forquilhinha - 402
+Fraiburgo - 128
+Frei Rogério - 7
+Galvão - 8
+Garopaba - 140
+Garuva - 281
+Gaspar - 1338
+Governador Celso Ramos - 415
+Grão-Pará - 95
+Gravatal - 115
+Guabiruba - 337
+Guaraciaba - 38
+Guaramirim - 512
+Guarujá do Sul - 7
+Guatambu - 84
+Herval d'Oeste - 283
+Ibiam - 11
+Ibicaré - 38
+Ibirama - 66
+Içara - 346
+Ilhota - 231
+Imaruí - 55
+Imbituba - 516
+Imbuia - 21
+Indaial - 870
+Iomerê - 6
+Ipira - 40
+Iporã do Oeste - 46
+Ipuaçu - 363
+Ipumirim - 99
+Iraceminha - 41
+Irani - 65
+Irati - 16
+Irineópolis - 7
+Itá - 61
+Itaiópolis - 38
+Itajaí - 3823
+Itapema - 1448
+Itapiranga - 259
+Itapoá - 222
+Ituporanga - 180
+Jaborá - 39
+Jacinto Machado - 75
+Jaguaruna - 226
+Jaraguá do Sul - 1209
+Jardinópolis - 17
+Joaçaba - 319
+Joinville - 7750
+José Boiteux - 28
+Jupiá - 15
+Lacerdópolis - 20
+Lages - 1268
+Laguna - 266
+Lajeado Grande - 29
+Laurentino - 35
+Lauro Müller - 150
+Lebon Régis - 6
+Leoberto Leal - 5
+Lindóia do Sul - 108
+Lontras - 47
+Luiz Alves - 101
+Luzerna - 59
+Macieira - 1
+Mafra - 210
+Major Gercino - 56
+Major Vieira - 4
+Maracajá - 47
+Maravilha - 266
+Marema - 48
+Massaranduba - 315
+Matos Costa - 1
+Meleiro - 63
+Mirim Doce - 36
+Modelo - 76
+Mondaí - 37
+Monte Carlo - 135
+Monte Castelo - 8
+Morro da Fumaça - 220
+Morro Grande - 59
+Navegantes - 1408
+Nova Erechim - 63
+Nova Itaberaba - 36
+Nova Trento - 176
+Nova Veneza - 296
+Novo Horizonte - 12
+Orleans - 203
+Otacílio Costa - 120
+Ouro - 137
+Ouro Verde - 17
+Paial - 18
+Painel - 1
+Palhoça - 2607
+Palma Sola - 23
+Palmeira - 8
+Palmitos - 153
+Papanduva - 26
+Paraíso - 8
+Passo de Torres - 96
+Passos Maia - 26
+Paulo Lopes - 102
+Pedras Grandes - 13
+Penha - 494
+Peritiba - 36
+Pescaria Brava - 130
+Petrolândia - 3
+Pinhalzinho - 192
+Pinheiro Preto - 8
+Piratuba - 73
+Planalto Alegre - 23
+Pomerode - 411
+Ponte Alta - 18
+Ponte Alta do Norte - 35
+Ponte Serrada - 54
+Porto Belo - 463
+Porto União - 70
+Pouso Redondo - 60
+Praia Grande - 38
+Presidente Castello Branco - 39
+Presidente Getúlio - 100
+Presidente Nereu - 12
+Princesa - 11
+Quilombo - 145
+Rancho Queimado - 27
+Rio das Antas - 5
+Rio do Campo - 25
+Rio do Oeste - 32
+Rio do Sul - 393
+Rio dos Cedros - 36
+Rio Fortuna - 45
+Rio Negrinho - 214
+Rio Rufino - 7
+Riqueza - 32
+Rodeio - 123
+Romelândia - 34
+Salete - 89
+Saltinho - 12
+Salto Veloso - 10
+Sangão - 103
+Santa Cecília - 78
+Santa Helena - 14
+Santa Rosa de Lima - 25
+Santa Rosa do Sul - 97
+Santa Terezinha - 19
+Santa Terezinha do Progresso - 14
+Santiago do Sul - 28
+Santo Amaro da Imperatriz - 258
+São Bento do Sul - 350
+São Bernardino - 23
+São Bonifácio - 29
+São Carlos - 44
+São Cristóvão do Sul - 32
+São Domingos - 56
+São Francisco do Sul - 682
+São João Batista - 647
+São João do Itaperiú - 60
+São João do Oeste - 55
+São João do Sul - 23
+São Joaquim - 97
+São José - 2616
+São José do Cedro - 19
+São José do Cerrito - 53
+São Lourenço do Oeste - 56
+São Ludgero - 424
+São Martinho - 112
+São Miguel da Boa Vista - 23
+São Miguel do Oeste - 227
+São Pedro de Alcântara - 52
+Saudades - 91
+Schroeder - 118
+Seara - 373
+Serra Alta - 45
+Siderópolis - 110
+Sombrio - 284
+Sul Brasil - 45
+Taió - 241
+Tangará - 38
+Tigrinhos - 38
+Tijucas - 863
+Timbé do Sul - 61
+Timbó - 549
+Timbó Grande - 16
+Três Barras - 245
+Treviso - 34
+Treze de Maio - 84
+Treze Tílias - 52
+Trombudo Central - 66
+Tubarão - 1866
+Tunápolis - 103
+Turvo - 155
+União do Oeste - 14
+Urubici - 70
+Urussanga - 319
+Vargeão - 11
+Vargem - 32
+Vargem Bonita - 56
+Vidal Ramos - 19
+Videira - 414
+Vitor Meireles - 7
+Witmarsum - 19
+Xanxerê - 1043
+Xavantina - 49
+Xaxim - 808
+Zortéa - 148

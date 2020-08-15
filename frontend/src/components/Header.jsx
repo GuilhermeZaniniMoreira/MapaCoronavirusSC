@@ -20,7 +20,7 @@ const HeaderExampleBlock = () => {
         async function getAverage() {
             var cases = 0;
             cities.map((city, index) => {
-                cases += city.casos;
+                return cases += city.casos;
             })
             setCases(cases);
         }
