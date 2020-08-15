@@ -37,18 +37,28 @@ function MapComponent() {
           noWrap={true} />
           {cities.map((city, index) => {
           return city.casos > average ?
-          <Marker 
-          key={index}
-          icon={MarkerRed}
-          position={[city.latitude, city.longitude]}>
-                  <Popup>A pretty CSS3 popup.<br />Easily customizable.</Popup>
+          <Marker
+          position={[city.latitude, city.longitude]}
+          opacity={10}
+          onMouseOver={e => {
+            e.target.openPopup();
+          }}
+          onMouseOut={e => {
+            e.target.closePopup();
+          }}>
+            <Popup>{city.nome}: {city.casos} casos</Popup>
           </Marker>
           :
           <Marker
-          key={index}
-          icon={MarkerBlue}
-          position={[city.latitude, city.longitude]}>
-            <Popup>A pretty CSS3 popup.<br />Easily customizable.</Popup>
+          position={[city.latitude, city.longitude]}
+          opacity={0.3}
+          onMouseOver={e => {
+            e.target.openPopup();
+          }}
+          onMouseOut={e => {
+            e.target.closePopup();
+          }}>
+            <Popup>{city.nome}: {city.casos} casos</Popup>
           </Marker>
         })}
       </Map>
